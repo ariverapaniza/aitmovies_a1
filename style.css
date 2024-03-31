@@ -29,7 +29,7 @@ body {
 }
 
 .poster-container img {
-  max-height: 400px; /* Ensures image does not exceed the container's height */
+  max-height: 400px; /* It ensures image does not exceed the containers height */
   width: auto; /* This maintain the aspect ratio */
   max-width: 100%; /* This ensures image does not exceed its container's width */
 }
